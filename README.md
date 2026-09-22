@@ -116,7 +116,8 @@ I prefer a hybrid approach: **the model handles flexible reasoning; deterministi
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravenscoat&theme=github_dark" alt="Shehroz Ali's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenscoat&theme=github_dark" alt="Shehroz Ali's GitHub activity" />
+
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravenscoat&theme=github_dark" alt="Repositories by language" />
 
 </div>
